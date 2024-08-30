@@ -10,7 +10,7 @@ firebase_admin.initialize_app(cred,{
 ref=db.reference('Students')
 data={
     "321654":{
-        "name":"Dasvir Singh",
+        "name":"Gurpreet Singh",
         "major":"Robotics",
         "starting_year":"2021",
         "total_attendance":16,
